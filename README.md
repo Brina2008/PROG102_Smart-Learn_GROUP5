@@ -76,9 +76,4 @@ This project supports **Sustainable Development Goal (SDG) 4: Quality Education*
 * Alfreda Victoria Dumbuya
 * Sabrina Kandeh
 * Ameynor Salma Kamara
-
-## Course Information
-
-**Course:** Principles of Software Engineering (PROG102)
-**Faculty:** Information and Communication Technology
-**Institution:** University of Management and Technology (UNIMTECH)
+ 
