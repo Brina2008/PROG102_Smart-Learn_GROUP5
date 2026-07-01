@@ -75,5 +75,5 @@ This project supports **Sustainable Development Goal (SDG) 4: Quality Education*
 * Better communication between stakeholders
 * Efficient assignment and grading management
 * Real-time student performance tracking
-* Enhanced educational outcomes
+* Enhanced educational outcomes.
   
