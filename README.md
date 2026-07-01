@@ -8,6 +8,12 @@ SmartLearn SL is a Software Engineering project developed to improve access to q
 
 Many schools still rely on traditional teaching methods, making it difficult to manage learning materials, assignments, quizzes, and student performance. SmartLearn SL addresses these challenges by providing an online educational platform that supports digital learning and communication.
 
+## Authors
+
+* Alfreda Victoria Dumbuya
+* Sabrina Kandeh
+* Ameynor Salma Kamara
+
 ## Features
 
 * User login and registration
@@ -70,10 +76,4 @@ This project supports **Sustainable Development Goal (SDG) 4: Quality Education*
 * Efficient assignment and grading management
 * Real-time student performance tracking
 * Enhanced educational outcomes
-
-## Authors
-
-* Alfreda Victoria Dumbuya
-* Sabrina Kandeh
-* Ameynor Salma Kamara
- 
+  
